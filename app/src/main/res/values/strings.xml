@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyModules</string>
+    <string name="APbtn">C346 Android Programming</string>
+    <string name="IPbtn">C349 iPad Programming</string>
+</resources>
